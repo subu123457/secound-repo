@@ -1,0 +1,21 @@
+Source/version Control
+Used to control and check the progress......... 
+        
+          -Change -What, Who, When
+          -Svn, TFS, Git
+
+GIT
+     -Installation
+     - Cmd or terminal or Powershell or git bash to execute git commands
+     - git int - we initialized a folder as git repository
+     - git config - Who part
+              - git config user .email> user email
+              - git config user .name> user name
+     - Any change(File add, delete, content add) in that folder (git repo)
+              - git add --all : Staging changes for commit
+              - git commit -m "short which describes the change"
+- GitHub
+- Web basics
+- Static site
+
+The bist is legend
